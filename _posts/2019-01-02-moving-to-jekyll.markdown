@@ -4,6 +4,11 @@ title:  "Why I moved to Jekyll"
 date:   2019-06-10 20:01:13 +0000
 categories: jekyll update
 ---
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+\frac{33} \sigma $\Sigma$
+
 You’ll find this post in your `_posts` directory. Hello again Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
